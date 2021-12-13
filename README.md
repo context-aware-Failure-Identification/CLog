@@ -9,7 +9,7 @@ For evaluation, it's important to know additionally the severity degree of the i
 
 For parsing one can use Drain. We provide an in-memory implementation of the parser. However, if using the parser please cite the relevant authors: Pinjia He et al. https://github.com/logpai/logparser/tree/master/logparser/Drain. 
 
-###Prerequisite
+### Prerequisite
 The requirements can be found in the requirements.tex
 
 1. Clone the Repository git clone https://github.com/CLogCLog/CLog.git
