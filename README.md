@@ -38,5 +38,4 @@ The requirements can be found in the requirements.tex
 
 ------------
 ## Data
-The processed data can be found in: data/OpenStack_data_original.csv. The corresponding templates obtained from Drain are stored in OpenStackTemplates.csv
-You can put your data when your experiments for easier navigation. 
+The processed data can be found in: https://tubcloud.tu-berlin.de/s/wNTbFW5wfWxqpCH (Due to github limmitation of 25 MB large files). The corresponding templates obtained from Drain are stored in OpenStackTemplates.csv. You can put your data when your experiments for easier navigation. 
