@@ -12,7 +12,7 @@ For parsing one can use Drain. We provide an in-memory implementation of the par
 ### Prerequisite
 The requirements can be found in the requirements.tex
 
-1. Clone the Repository git clone https://github.com/CLogCLog/CLog.git
+1. Clone the Repository git clone https://github.com/context-aware-Failure-Identification/CLog.git
 
 2. Install the requirements using: pip install -r /path/to/requirements.txt
 
